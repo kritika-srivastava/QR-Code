@@ -1,7 +1,7 @@
 # QRcode Generator and Reader
 &nbsp;
 
-#### *Welcome to Qrcode Generator and Reader’s documentation! Here I shall give an overview of all the things you need to know to get started with this project.*
+#### *Welcome to QRcode Generator and Reader’s documentation! Here, I shall give an overview of all the things you need to know to get started with this project.*
 &nbsp;
 
 ![](images/hii.png)
@@ -62,7 +62,7 @@ As of now, this project runs on Python 3.x . Make sure that all the given should
 - Make sure you change the path of the directory in which you want to save the png image of qrcode. In case of saving the image in the current directory, just specify the name of image within the quotes.
 &nbsp;
 
-If everything worked so far, the png image should be made in the directory. Open the image  look something like this:
+If everything worked so far, the png image should be made in the directory. Open the image and it should look something like this:
 &nbsp;
 
 <img src="images/profile_qr.png">
