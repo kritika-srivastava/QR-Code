@@ -18,11 +18,11 @@
 ![PyPi Dependency](https://img.shields.io/badge/PyPi-pyzbar-critical)
 
 ## Technical Stack
-###### - Pyzbar (Python)
-###### - Qrcode (Python)
-###### - PIL (pillow-Python)
-###### - Anaconda
-###### - Webbrowser (Python)
+- Pyzbar (Python)
+- Qrcode (Python)
+- PIL (pillow-Python)
+- Anaconda
+- Webbrowser (Python)
 
 &nbsp;
 
