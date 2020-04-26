@@ -26,3 +26,14 @@ img=qr.make_image(fill_color="black",back_color="white")
 
 img.save(r'C:\Users\Kritika\Desktop\VSC\python\QR-Code\images\profile_qr.png')
 #Hint :Place the path of the directory in which you wamt to save the image along with its name.
+
+#Uncomment the following to save the image in the same directory as this python file and comment line 27.
+#Don't forget to change the image name to a desired name. ;-)
+#img.save('profile_qr.png')
+
+
+
+
+
+
+
