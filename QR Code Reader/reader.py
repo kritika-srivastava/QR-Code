@@ -18,5 +18,5 @@ webbrowser.open(url)
 #Hurray the url opens a website ;-) 
 # My GitHub profile though
 
-#While displaying a simple message encoded in qrcode comment the line 17 and type:
+#While displaying a simple message encoded in qrcode comment the line 17 and uncomment line 22:
 #print(url)
