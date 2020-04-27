@@ -1,7 +1,10 @@
-# QRcode Generator and Reader
-&nbsp;
+## [![license](https://img.shields.io/github/license/DAVFoundation/captain-n3m0.svg?style=flat-square)](https://github.com/kritika-srivastava/Random-Password-Generator/blob/master/LICENSE)![Project Status](https://img.shields.io/badge/Project-Completed-orange)
+[![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
+![Python Badge](https://img.shields.io/badge/Python-3.5%7C3.6%7C3.7-success)
+![PyPi Dependency](https://img.shields.io/badge/PyPi-pyzbar-critical)
 
-#### *Welcome to QRcode Generator and Reader’s documentation! Here, I shall give an overview of all the things you need to know to get started with this project.*
+# QRcode Generator and Reader
+#### *Welcome to QRcode Generator and Reader’s documentation! Here, I shall give an overview of all the steps you need to know to get started with this project.*
 &nbsp;
 
 ![](images/hii.png)
@@ -12,10 +15,6 @@
 *This mini project is divided in two parts ,i.e,Qrcode Generator and Qrcode Reader respectively.*
 &nbsp;
 
-## [![license](https://img.shields.io/github/license/DAVFoundation/captain-n3m0.svg?style=flat-square)](https://github.com/kritika-srivastava/Random-Password-Generator/blob/master/LICENSE)![Project Status](https://img.shields.io/badge/Project-Completed-orange)
-[![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
-![Python Badge](https://img.shields.io/badge/Python-3.5%7C3.6%7C3.7-success)
-![PyPi Dependency](https://img.shields.io/badge/PyPi-pyzbar-critical)
 
 ## Technical Stack
 - Pyzbar (Python)
@@ -28,7 +27,7 @@
 
 
 ## Installing required Plugins
-#### *The installation procedure is written keeping anaconda distribution as the base. However you can install the given plugins in any distribution.*
+#### *The installation procedure is written keeping **anaconda** distribution as the base. However you can install the given plugins in any distribution.*
 Open the anaconda prompt and activate your environment (if you prefer to work in any other virtual environment other than base) by typing the following command.
 ``` 
 conda activate your_env_name  
