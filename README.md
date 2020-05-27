@@ -44,10 +44,10 @@ A list of package to be installed or to be updated shall appear on terminal and 
 ``` 
 pip install PyQRCode  
 ```
-*Run any one of the given commands in the anaconda prompt to install PIL(pillow).*
+*Run the given commands in the anaconda prompt to install PIL(pillow).*
 ``` 
-conda install -c anaconda pillow 
-conda install pillow 
+pip install --upgrade pip setuptools wheel --user
+pip install pillow --user
 ```
 *Webbrowser is in-built in anaconda.*
 &nbsp;
